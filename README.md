@@ -20,9 +20,10 @@
     - Saiba como criar variáveis e atribuir valores a elas.
 5. **Vetores e Matrizes:**
     - Entenda como criar e manipular vetores e matrizes. O Octave é especialmente eficaz para lidar com cálculos matriciais.
-
-
-
+6. **Funções e Scripts:**
+    - Aprenda a definir funções e scripts. Funções são blocos de código reutilizáveis, enquanto scripts são arquivos de código que podem ser executados.
+7. **Gráficos:**
+    - Explore a criação de gráficos e visualizações com o Octave. A biblioteca **`plot`** é útil para plotar dados.
 
 <img src="graficooct.png" >
 
