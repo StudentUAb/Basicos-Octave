@@ -24,7 +24,10 @@
     - Aprenda a definir funções e scripts. Funções são blocos de código reutilizáveis, enquanto scripts são arquivos de código que podem ser executados.
 7. **Gráficos:**
     - Explore a criação de gráficos e visualizações com o Octave. A biblioteca **`plot`** é útil para plotar dados.
-
+8. **Resolução de Problemas:**
+    - Pratique resolvendo problemas matemáticos e científicos usando o Octave. Essa é uma ótima maneira de aplicar o que você aprendeu.
+9. **Recursos Online:**
+    - Há uma série de tutoriais, documentação e recursos online para aprender Octave. Consulte fóruns, grupos de discussão e sites dedicados ao Octave.
 <img src="graficooct.png" >
 
 
