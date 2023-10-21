@@ -30,6 +30,8 @@
     - Há uma série de tutoriais, documentação e recursos online para aprender Octave. Consulte fóruns, grupos de discussão e sites dedicados ao Octave.
 <img src="graficooct.png" >
 
+ViDEO:
+https://youtu.be/l9HfpkaBvDA
 
 🔧 Tecnologias utilizadas:
 ------------------
